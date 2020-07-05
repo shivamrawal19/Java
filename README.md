@@ -12,7 +12,7 @@ They used to spend 1 or 2 weeks in this process which now need only 5-6 hours to
 # About App
 It's an GUI based Java Swing Application, which gives the ability to enter the detatil of family and family members. There are around 45 field per form which will go to database and can be processed later whenever needed.
 
-I have used Java, Swing, MySQL, Some libraries like JCalender, JDateChooser
+I have used Java, Swing, MySQL and Some libraries like JCalender, JDateChooser.
 
 ### Some Facinating facts for me
 It's my first program after I have learnt java and it gone till more then 7000 lines. ( That file is at /src/AZBS.java ) Don't judge me, I have done all things in one place rather then splliting out features in different files cause I'm new to it at that time. But still it's a overwelming task I did as a start of my programming journey.
