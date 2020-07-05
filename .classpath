@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/com.azalea.ufl.barcode.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/commons-configuration-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/CrystalCommon2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/CrystalReportsRuntime.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/cvom.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/DatabaseConnectors.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/icu4j.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/JDBInterface.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/jrcerom.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/keycodeDecoder.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/logging.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/pfjgraphics.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/QueryBuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/webreporting.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/webreporting-jsf.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/XMLConnector.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/CrystalReport/xpp3.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="src/com/toedter/calendar/JDateChooser.java"/>
+	<classpathentry kind="lib" path="C:/Users/rawal/Downloads/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
